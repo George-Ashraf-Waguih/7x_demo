@@ -17,13 +17,13 @@ pip install selenium webdriver-manager pytest pytest-xdist
 ## Running Tests
 To run tests on different browsers, use the --browser option with pytest:
 
-Run Tests on Chrome
+Run Tests on Chrome:
 pytest --browser=chrome tests/
 
-Run Tests on Firefox
+Run Tests on Firefox:
 pytest --browser=firefox tests/
 
-Run Tests on Both Browsers in Parallel
+Run Tests on Both Browsers in Parallel:
 Ensure you have pytest-xdist installed for parallel execution:
 pip install selenium webdriver-manager pytest pytest-xdist
 
