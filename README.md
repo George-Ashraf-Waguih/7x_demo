@@ -11,8 +11,7 @@ This framework is designed for automated testing using Selenium WebDriver, suppo
 - Python 3.7+
 - Chrome and/or Firefox browsers
 - Install the required Python packages:
-
-## pip install selenium webdriver-manager pytest pytest-xdist
+pip install selenium webdriver-manager pytest pytest-xdist
 
 
 ## Running Tests
